@@ -6,22 +6,19 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bold &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Knet Inc &mdash; Helps you you with software development</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="description" content="Knet helps you with software development" />
+	<meta name="keywords" content="Software Development, custom application development,  website development, custom mobile development, html5, css3, mobile first, responsive, cordova" />
+	<meta name="author" content="knetinc.com" />
 
   <!-- 
 	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
+	Custom Software Development
+	by knetinc.com
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+	Website: 		http://knetinc.com/
 
 	//////////////////////////////////////////////////////
 	 -->
@@ -68,7 +65,7 @@
 	<header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="#">Bold<span>.</span></a></h1>
+				<h1><a href="#">Knet <span>Inc</span></a></h1>
 				<nav role="navigation">
 					<ul>
 						<li><a href="products.html">Products</a></li>
@@ -92,7 +89,7 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Start Your Startup With This Template</h2>
+		   					<h2>Mobile Development</h2>
 		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
 		   				</div>
 		   			</div>
@@ -102,7 +99,7 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Take Your Business To The Next Level</h2>
+		   					<h2>Application Integration</h2>
 		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
 		   				</div>
 		   			</div>
@@ -112,7 +109,7 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>We Think Different That Others Can't</h2>
+		   					<h2>Professional Application Development</h2>
 		   					<p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
 		   				</div>
 		   			</div>
